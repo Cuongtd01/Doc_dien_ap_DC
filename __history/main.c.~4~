@@ -1,0 +1,19 @@
+#include <main.h>
+
+void main()
+{
+   lcd_init();
+   lcd_clear();
+   
+   SETUP_ADC(ADC_CLOCK_INTERNAL);
+   SETUP_ADC_PORTS(ALL_ANALOG);
+   SET_ADC_CHANNEL(5); //RE0 AN5
+   
+   while(TRUE)
+   {
+
+
+      //TODO: User Code
+   }
+
+}

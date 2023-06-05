@@ -1,0 +1,53 @@
+[PROJECT]
+Target=main.hex
+Processor_Text=PIC16F877A
+CCSVerions=5.101
+Compiler=PCM
+CCSVersion=5.101
+[Target Data]
+FileList=main.c
+[Directories]
+Include=
+[E:\Study\College\Cong thuc\Ky 5\Thiet ke he thong nhung\Pic\Do dien ap DC\main]
+Type=4
+[mru-list]
+1=main.c
+
+[fileformats]
+forcecoff=0
+
+[ProjectLog]
+Days=2
+D1=18-09-2022
+D1_L=6
+D1_L1=[70836]Project Opened.
+D1_L2=[70942]Started Editing.
+D1_L3=[72414]Stopped Editing.
+D1_L4=[74842]Started Editing.
+D1_L5=[75186]Stopped Editing.
+TotalEdit=21
+TotalDebug=0
+D1_E=21
+D1_D=0
+D1_L6=[82105]Project Closed.
+D2=20-12-2022
+D2_L=2
+D2_L1=[62226]Project Opened.
+D2_L2=[62653]Project Closed.
+
+[Opened Files]
+1=main.c
+t1=14
+Count=3
+2=main.h
+t2=1
+3=D:\Program Files (x86)\PICC\Devices\16F877A.h
+t3=365
+[main.c]
+Type=4
+
+[defines]
+buildcount=12
+[Units]
+Count=1
+1=main (main)
